@@ -1,4 +1,6 @@
-
+env:
+  action: destroy
+  
 name: rds_deployer
 
 on:
